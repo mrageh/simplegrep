@@ -1,0 +1,10 @@
+[package]
+name = "simplegrep"
+version = "0.1.0"
+authors = ["mrageh <adam@mrageh.com>"]
+edition = "2018"
+
+[dependencies]
+grep = "0.2"
+walkdir = "2"
+termcolor = "1"
